@@ -9,6 +9,9 @@ function App() {
         <p>
           Este é um site de teste para Pablo.
         </p>
+        <p>
+          Programador do servidor SAMP Sicksz!
+        </p>
       </header>
     </div>
   );
